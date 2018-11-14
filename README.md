@@ -7,9 +7,9 @@ Name and home address are converted to upper case for the registration.
 
 There has to be at least one non-blank registered entry for the user profile to be created. If all five entries are "(blank)", a message saying "Profile was not created" is printed. Otherwise, a message saying "Profile created successfully" is printed, along with the new user profile in the following form:
 
-EMILY WATSON
-7911123456
-(blank)
-12 ALBION WAY, LONDON
+ EMILY WATSON
+ 7911123456
+ (blank)
+ 12 ALBION WAY, LONDON
 
 assuming that this user chose to leave their email address entry blank.
