@@ -1,4 +1,5 @@
-# MyDatabase
+# My_database
+
 It creates a user profile consisting of their : name, mobile number, email address, home address
 
 It checks whether each entry is valid. If it's not, it prints a message "This is not valid" and asks again for a valid entry. An empty entry is acceptable and gets registered as "(blank)".
